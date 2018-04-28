@@ -1,0 +1,13 @@
+{
+    "name": "ahsuoy/codepuzzlestudio-framework",
+    "description": "Code Puzzle Studio php framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ahsuoy",
+            "email": "youshafarokey@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
