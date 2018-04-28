@@ -1,6 +1,7 @@
 {
     "name": "yousha89/codepuzzlestudio-framework",
     "description": "Code Puzzle Studio php framework.",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
